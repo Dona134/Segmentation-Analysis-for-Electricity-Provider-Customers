@@ -1,0 +1,55 @@
+"Informazioni cronologiche","Quanti anni hai?","Qual è la tua situazione abitativa attuale?","In che tipo di abitazione vivi?","Gestisci la fornitura elettrica nella tua famiglia?","Quante persone vivono nella tua famiglia?","Come descriveresti il consumo energetico della tua famiglia?","Quante volte hai cambiato fornitore di elettricità?","Quanto paghi in media mensilmente per l'elettricità?","Classifica i seguenti servizi dal più importante (1) al meno importante (7).
+
+Puoi assegnare ogni valore solo una volta, quindi assicurati che ogni servizio abbia un valore unico. [Reputazione e affidabilità del fornitore]","Classifica i seguenti servizi dal più importante (1) al meno importante (7).
+
+Puoi assegnare ogni valore solo una volta, quindi assicurati che ogni servizio abbia un valore unico. [Servizio clienti]","Classifica i seguenti servizi dal più importante (1) al meno importante (7).
+
+Puoi assegnare ogni valore solo una volta, quindi assicurati che ogni servizio abbia un valore unico. [Facilità nella lettura della bolletta]","Classifica i seguenti servizi dal più importante (1) al meno importante (7).
+
+Puoi assegnare ogni valore solo una volta, quindi assicurati che ogni servizio abbia un valore unico. [Prezzo flessibile (fasce orarie)]","Classifica i seguenti servizi dal più importante (1) al meno importante (7).
+
+Puoi assegnare ogni valore solo una volta, quindi assicurati che ogni servizio abbia un valore unico. [Energia da fonti rinnovabili]","Classifica i seguenti servizi dal più importante (1) al meno importante (7).
+
+Puoi assegnare ogni valore solo una volta, quindi assicurati che ogni servizio abbia un valore unico. [Facilità nell'uso del sito/app]","Classifica i seguenti servizi dal più importante (1) al meno importante (7).
+
+Puoi assegnare ogni valore solo una volta, quindi assicurati che ogni servizio abbia un valore unico. [Pacchetti (es. elettricità + gas + internet)]"
+"2024/12/20 11:31:28 AM CET","18-25","Proprietà","Casa","No","5","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Una volta","80-100€","4","6","5","7","1","2","3"
+"2024/12/20 11:41:39 AM CET","18-25","Affitto","Appartamento","Si","2","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Due o più volte","60-80€","3","1","2","4","5","6","7"
+"2024/12/20 11:43:00 AM CET","18-25","Affitto","Appartamento","Si","2","Alto (es. uso frequente di riscaldamento/aria condizionata, più dispositivi in funzione)","Due o più volte","80-100€","5","3","7","4","2","6","1"
+"2024/12/20 12:53:21 PM CET","18-25","Ho vissuto per il 60% di questo anno in una residenza universitaria e per il restante a casa con i genitori","Casa","Si","4","Basso (es. uso minimo di riscaldamento/aria condizionata)","Una volta","Più di 120€","4","1","3","2","5","7","6"
+"2024/12/21 1:14:39 PM CET","18-25","Affitto","Appartamento","Si","2","Basso (es. uso minimo di riscaldamento/aria condizionata)","Mai","40-60€","1","5","3","4","6","2","7"
+"2024/12/21 1:27:53 PM CET","51+","Proprietà","Casa","Si","4","Alto (es. uso frequente di riscaldamento/aria condizionata, più dispositivi in funzione)","Due o più volte","100-120€","2","5","4","1","7","6","3"
+"2024/12/29 3:02:16 PM CET","26-35","Proprietà","Appartamento","No","4","Alto (es. uso frequente di riscaldamento/aria condizionata, più dispositivi in funzione)","Mai","Più di 120€","7","6","4","1","2","3","5"
+"2024/12/29 3:47:37 PM CET","26-35","Proprietà","Appartamento","Si","2","Basso (es. uso minimo di riscaldamento/aria condizionata)","Mai","Meno di 40€","7","5","3","2","6","4","1"
+"2024/12/29 5:14:43 PM CET","36-50","Affitto","Appartamento","Si","2","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Mai","Meno di 40€","2","7","5","1","3","4","6"
+"2024/12/29 5:16:57 PM CET","26-35","Affitto","Appartamento","No","2","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Mai","Meno di 40€","2","7","5","1","4","3","6"
+"2024/12/29 7:43:32 PM CET","18-25","Proprietà","Casa","Si","3","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Mai","80-100€","7","6","5","4","1","2","3"
+"2024/12/29 8:03:11 PM CET","26-35","Affitto","Casa","Si","2","Alto (es. uso frequente di riscaldamento/aria condizionata, più dispositivi in funzione)","Mai","60-80€","1","2","3","4","5","6","7"
+"2024/12/31 2:59:49 PM CET","26-35","Proprietà","Casa","Si","5","Alto (es. uso frequente di riscaldamento/aria condizionata, più dispositivi in funzione)","Due o più volte","Più di 120€","7","4","5","3","1","6","2"
+"2024/12/31 5:54:47 PM CET","51+","Proprietà","Appartamento","Si","2","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Mai","60-80€","1","2","3","4","5","7","6"
+"2024/12/31 11:26:58 PM CET","36-50","Proprietà","Appartamento","Si","4","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Mai","100-120€","6","5","7","3","2","1","4"
+"2025/01/01 4:13:07 PM CET","51+","Uso gratuito","Appartamento","Si","2","Alto (es. uso frequente di riscaldamento/aria condizionata, più dispositivi in funzione)","Due o più volte","60-80€","3","6","2","4","5","7","1"
+"2025/01/01 4:38:27 PM CET","51+","Affitto","Appartamento","Si","2","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Due o più volte","100-120€","1","2","4","3","5","7","6"
+"2025/01/01 6:19:39 PM CET","51+","Proprietà","Casa","No","4","Alto (es. uso frequente di riscaldamento/aria condizionata, più dispositivi in funzione)","Due o più volte","80-100€","2","5","4","1","3","7","6"
+"2025/01/01 6:48:06 PM CET","51+","Proprietà","Appartamento","Si","3 ","Alto (es. uso frequente di riscaldamento/aria condizionata, più dispositivi in funzione)","Due o più volte","100-120€","7","6","4","5","3","2","1"
+"2025/01/01 8:42:13 PM CET","51+","Proprietà","Appartamento","No","2","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Una volta","100-120€","6","5","4","1","2","3","7"
+"2025/01/01 10:14:27 PM CET","51+","Proprietà","Casa","Si","2","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Una volta","100-120€","6","7","4","3","5","1","2"
+"2025/01/02 9:38:54 AM CET","18-25","Affitto","Appartamento","Si","2","Basso (es. uso minimo di riscaldamento/aria condizionata)","Mai","Meno di 40€","4","7","6","1","3","5","2"
+"2025/01/02 2:42:42 PM CET","51+","Proprietà","Appartamento","Si","6","Alto (es. uso frequente di riscaldamento/aria condizionata, più dispositivi in funzione)","Una volta","Più di 120€","7","6","5","1","2","4","3"
+"2025/01/05 12:26:45 AM CET","51+","Proprietà","Casa","Si","4","Alto (es. uso frequente di riscaldamento/aria condizionata, più dispositivi in funzione)","Due o più volte","100-120€","6","7","3","4","2","1","5"
+"2025/01/06 3:17:56 PM CET","36-50","Proprietà","Casa","Si","5","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Una volta","100-120€","6","3","7","4","5","2","1"
+"2025/01/14 9:20:32 PM CET","18-25","Proprietà","Appartamento","No","3","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Mai","100-120€","5","6","3","7","2","4","1"
+"2025/01/16 12:56:26 PM CET","36-50","Proprietà","Appartamento","Si","2","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Una volta","60-80€","3","4","5","1","2","6","7"
+"2025/01/16 1:00:09 PM CET","26-35","Affitto","Appartamento","Si","2","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Mai","60-80€","7","6","4","5","3","1","2"
+"2025/01/16 1:22:55 PM CET","51+","Proprietà","Appartamento","Si","3","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Due o più volte","60-80€","4","2","1","6","3","5","7"
+"2025/01/16 1:34:00 PM CET","51+","Proprietà","Appartamento","Si","3","Alto (es. uso frequente di riscaldamento/aria condizionata, più dispositivi in funzione)","Mai","Più di 120€","2","5","6","3","1","4","7"
+"2025/01/16 1:35:48 PM CET","51+","Proprietà","Appartamento","Si","3","Alto (es. uso frequente di riscaldamento/aria condizionata, più dispositivi in funzione)","Una volta","80-100€","7","6","5","3","4","2","1"
+"2025/01/16 1:40:20 PM CET","51+","Proprietà","Appartamento","No","2","Alto (es. uso frequente di riscaldamento/aria condizionata, più dispositivi in funzione)","Due o più volte","80-100€","2","1","4","6","5","3","7"
+"2025/01/16 2:01:23 PM CET","51+","Proprietà","Appartamento","Si","1","Alto (es. uso frequente di riscaldamento/aria condizionata, più dispositivi in funzione)","Una volta","60-80€","6","5","1","4","3","2","7"
+"2025/01/16 4:17:38 PM CET","51+","Affitto","Appartamento","Si","1","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Mai","40-60€","2","3","1","4","7","5","6"
+"2025/01/16 5:01:49 PM CET","36-50","Proprietà","Casa","Si","4","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Una volta","60-80€","6","7","3","5","4","1","2"
+"2025/01/16 6:07:15 PM CET","51+","Proprietà","Casa","Si","4","Alto (es. uso frequente di riscaldamento/aria condizionata, più dispositivi in funzione)","Mai","80-100€","5","6","1","4","2","3","7"
+"2025/01/16 6:07:19 PM CET","51+","Proprietà","Casa","No","4","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Mai","60-80€","5","3","1","6","2","4","7"
+"2025/01/16 6:32:11 PM CET","51+","Proprietà","Appartamento","Si","nessuna","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Una volta","Meno di 40€","1","3","6","2","4","5","7"
+"2025/01/16 8:29:33 PM CET","51+","Affitto","Appartamento","Si","2","Moderato (es. uso occasionale del riscaldamento/aria condizionata)","Mai","60-80€","1","2","5","3","4","6","7"
+"2025/01/18 1:09:50 PM CET","51+","Affitto","Appartamento","Si","2","Basso (es. uso minimo di riscaldamento/aria condizionata)","Mai","60-80€","2","3","5","7","6","1","4"
